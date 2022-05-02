@@ -1,3 +1,3 @@
-#admin https://hilarious-salamander-be418f.netlify.app
-#username : admin
-#password : 123
+ADMIN WEB:  https://hilarious-salamander-be418f.netlify.app
+USERNAME : admin
+PASSWORD : 123
